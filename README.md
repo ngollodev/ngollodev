@@ -13,19 +13,43 @@
 
 ## 🚀 Projects
 
-### 🌧️ Smart Rain-Responsive Cloth Collector
-IoT system that automatically collects clothes when it rains, with mobile app control and sensor-based automation.  
-[🔗 GitHub Repo](https://github.com/ngollodev/rain-collector)
+### Advanced laravelapi
+This is the Advanced level RestFul Api written in the Laravel Framework
+[🔗 GitHub Repo](https://github.com/ngollodev/laravelapi)
+
+### Restaurant-Recipes-Laravel-web-application 
+This is the recipes web app developed by using TALL stack.
+[🔗 GitHub Repo](https://github.com/ngollodev/Restaurant-Recipes-Laravel-web-application)
 
 ### 🙏 University Adventist Association Web App
 Full-stack app for member registration, attendance tracking, and leadership tools.  
-[🔗 GitHub Repo](https://github.com/ngollodev/uua-webapp)
+[🔗 GitHub Repo](https://github.com/ngollodev/tucasa)
+
+### Aquila-tourism-website-frontend 
+This is the tourism-frontend website, organized by html, css, sass, bootstrap as well .
+[🔗 GitHub Repo](https://github.com/ngollodev/Aquila-tourism-website-frontend)
 
 ### 📱 Real-Time Chat App with Laravel & React
 Fully authenticated messaging app with real-time updates and role-based access.  
-[🔗 GitHub Repo](https://github.com/ngollodev/chat-app)
+[🔗 GitHub Repo](https://github.com/ngollodev/w2-chat-application)
 
 <!-- Add more projects here -->
+
+### cloudguard Iot-mobile app intagrated project
+IoT system that automatically collects clothes when it rains, with mobile app control and sensor-based automation. 
+[🔗 GitHub Repo](https://github.com/ngollodev/cloudguard)
+
+### Desktop-Application
+The python desktop application that is based on the salary management
+[🔗 GitHub Repo](https://github.com/ngollodev/Desktop-Application)
+
+### weather_app 
+The Fully mobile app with really time weather Apis
+[🔗 GitHub Repo](https://github.com/ngollodev/weather_app)
+
+### CurrencyConverter
+This is the flutter mobile app that is specifically designed to convert the USD to TZS.
+[🔗 GitHub Repo](https://github.com/ngollodev/CurrencyConverter)
 
 ## 📫 Let's Connect
 - Email: ngollo.dev@email.com
