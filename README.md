@@ -50,7 +50,7 @@ This is the flutter mobile app that is specifically designed to convert the USD 
 [🔗 GitHub Repo](https://github.com/ngollodev/CurrencyConverter)
 
 ## 📫 Let's Connect
-- Email: ngollo.dev@email.com
+- Email: ngollo.dev@gmail.com
 - LinkedIn: [linkedin.com/in/jacobbullugu](https://linkedin.com/in/jacobbullugu)
 
 ---
