@@ -80,7 +80,7 @@ I also have a strong interest in **IoT and Embedded Systems**, integrating **Ard
 ## 📫 Let's Connect
 
 - 📧 **Email**: [ngollo.dev@gmail.com](mailto:ngollo.dev@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/jacobbullugu](https://linkedin.com/in/jacobbulluni)  
+- 💼 **LinkedIn**: [linkedin.com/in/jacobbullugu](https://www.linkedin.com/in/jacob-bullugu-a91023334/)  
 - 🖥️ **Portfolio (coming soon)**
 
 ---
