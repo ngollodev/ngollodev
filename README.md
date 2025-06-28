@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Jacob Lucas Bullugu
 
-🎓 Computer Systems and Networking student at Ardhi University  
-💻 Passionate about building full-stack web and mobile applications  
-🔍 Currently focused on Laravel, React, Flutter, and IoT systems  
+Computer Systems and Networking student at Ardhi University  
+Passionate about building full-stack web and mobile applications  
+Currently focused on Laravel, React, Flutter, and IoT systems  
 
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, Dart, PHP, C
