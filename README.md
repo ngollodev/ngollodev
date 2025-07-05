@@ -74,6 +74,7 @@ I also have a strong interest in **IoT and Embedded Systems**, integrating **Ard
 - IoT-based smart systems integration with mobile apps  
 - Advanced Laravel + React SaaS platforms  
 - Flutter apps with Firebase and REST APIs
+- Grade Calculation & Report Card Generator
 
 ---
 
@@ -81,7 +82,7 @@ I also have a strong interest in **IoT and Embedded Systems**, integrating **Ard
 
 - 📧 **Email**: [ngollo.dev@gmail.com](mailto:ngollo.dev@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/jacobbullugu](https://www.linkedin.com/in/jacob-bullugu-a91023334/)  
-- 🖥️ **Portfolio (coming soon)**
+- 🖥️ **Portfolio**: [https://ngollodev-portfolio.netlify.app/](https://ngollodev-portfolio.netlify.app/)
 
 ---
 
