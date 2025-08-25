@@ -1,23 +1,3 @@
-# 👋 Hi, I'm Jacob Lucas Bullugu
-
-Hello there, I'm **Jacob Lucas Bullugu**, a passionate and purpose-driven **Computer Systems and Networking student at Ardhi University, Tanzania**.
-
-As a **Full-Stack Developer and Mobile App Developer**, I specialize in building clean, scalable, and user-centered applications using **Laravel, React, Next.js, and Flutter**. I love turning ideas into real products that make life simpler and more efficient.
-
-I also have a strong interest in **IoT and Embedded Systems**, integrating **Arduino and ESP32** with mobile and web technologies to create smart automation solutions that solve real-world problems.
-
-**I am a continuous learner**, always exploring new technologies and frameworks to expand my skill set and stay updated in the ever-evolving tech world.
-
-**Collaboration, kindness, and integrity** are core to how I work. I believe great products are built through teamwork, empathy, and clear communication.
-
-📌 **My focus areas include:**
-- **Web Development**: Laravel, React, Next.js, Tailwind CSS  
-- **Mobile Development**: Flutter, React Native (Expo)  
-- **IoT & Embedded Systems**: Arduino, ESP32 automation and sensor integration  
-- **Networking & Systems**: TCP/IP, Linux, and Wi-Fi security fundamentals
-
-✨ **My mission is to use technology to create meaningful impact**, build solutions that matter, and continue growing into a well-rounded engineer ready to tackle global challenges.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ngollodev&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
